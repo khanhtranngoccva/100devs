@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Oof</title>
+</head>
+<body>
+<ul>
+    <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid dignissimos dolore est fugit, illo impedit
+        laborum modi odio omnis optio perspiciatis, quod quos reiciendis repellendus reprehenderit repudiandae rerum
+        soluta, tempora.
+    </li>
+    <li>Ab accusamus at commodi deleniti dolorem est ipsum iste iure labore, laboriosam libero magnam magni nulla omnis
+        perferendis quae quas qui quo repellat repellendus repudiandae suscipit, tenetur velit voluptatem voluptatibus.
+    </li>
+    <li>Ab aliquid, animi architecto commodi cum dolorem doloremque dolores est et fugit minima molestiae, nam neque non
+        provident quae, quasi quidem reiciendis reprehenderit ullam veritatis voluptate voluptates. Eaque magnam,
+        tempora?
+    </li>
+    <li>Accusantium beatae consequuntur delectus deleniti dolore, doloribus est labore magnam perspiciatis possimus quia
+        quibusdam quidem quis repellat, repudiandae! Animi dolor facilis libero mollitia omnis possimus quas rem
+        reprehenderit sapiente vel?
+    </li>
+    <li>Ad deleniti eligendi eos mollitia quod? At autem dolorem dolores doloribus et hic inventore ipsa maiores nemo,
+        optio, quae qui, reiciendis tempore voluptate voluptatem! Blanditiis corporis eveniet illum sequi voluptatibus.
+    </li>
+</ul>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<script>
+    $("li").on("click", function(){$(this).css("background", "red")});
+    $("ul").append("<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, blanditiis, perspiciatis! Eum excepturi nesciunt, nihil numquam odio ratione sunt suscipit vel veniam vitae! Amet cumque delectus fugiat magni nihil tenetur!</li>")
+    $("li").trigger("click")
+</script>
+</body>
+</html>

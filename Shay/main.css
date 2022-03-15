@@ -1,0 +1,64 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 0 auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 960px;
+}
+
+h1, h3, h4, h5, p {
+    margin-bottom: 22px;
+}
+
+.btn {
+    border-radius: 5px;
+    display: inline-block;
+    margin: 0;
+}
+
+.btn-alt {
+    border: 1px solid #dfe2e5;
+    padding: 10px 30px;
+}
+
+.hero {
+    padding: 22px 80px 66px 80px;
+}
+
+
+h1, h3, h4, h5, p {
+    margin-bottom: 22px;
+}
+
+.group:before, .group:after {
+    content: "";
+    display: block;
+}
+
+.group:after {
+    clear: both;
+}
+
+.group {
+    zoom :1;
+}
+
+
+.logo {
+    float: left;
+    border-top: 4px solid #648880;
+    padding: 40px 0 22px 0;
+}
+
+.primary-footer small {
+    float: left;
+}
+
+
+.primary-footer {
+    padding-bottom: 44px;
+    padding-top: 44px;
+}

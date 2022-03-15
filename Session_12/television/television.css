@@ -1,0 +1,139 @@
+body {
+    margin: 0;
+    background: #e06969;
+    font-family: "Product Sans Regular", sans-serif;
+}
+
+.television_container {
+    width: 100%;
+    margin: auto auto;
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 150px;
+    background: #72cfff;
+}
+
+.television {
+    width: 80%;
+    max-width: 1000px;
+    background: black;
+    padding: 10px;
+    /*aspect-ratio: 16/9;*/
+    margin: auto;
+}
+
+.screen {
+    width: 100%;
+    position: relative;
+    aspect-ratio: 16 / 9;
+    background: #2f2f2f;
+}
+
+.static {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    /*background: url("img.png") gray;*/
+    background: black;
+    display: none;
+    z-index: 2;
+    transform: scaleY(1);
+}
+
+.static.active {
+    display: block;
+    /*background-position: 20px, 10px;*/
+    animation: static 0.25s infinite;
+}
+
+.iframe_screen {
+    display: block;
+    border: none;
+    height: 100%;
+    width: 100%;
+    transform: scaleY(1);
+}
+
+.static, .iframe_screen {
+    transition: transform 0.1s ease-in, filter 0.1s ease-in;
+}
+
+.screen_off {
+    transform: scaleY(0);
+    filter: brightness(500%);
+}
+
+@keyframes static {
+    0% {
+        background-position: 0px, 0px;
+    }
+    10% {
+        background-position: -100px, 100px;
+    }
+    20% {
+        background-position: 150px, -100px;
+    }
+    30% {
+        background-position: -100px,100px;
+    }
+    40% {
+        background-position: 100px, -150px;
+    }
+    50% {
+        background-position: -100px, 200px;
+    }
+    60% {
+        background-position: -200px, -100px;
+    }
+    70% {
+        background-position: 50px, 100px;
+    }
+    80% {
+        background-position: 100px, -150px;
+    }
+    90% {
+        background-position: 0px, 200px;
+    }
+    100% {
+        background-position: -100px, 100px;
+    }
+}
+
+.television_container:before {
+    content: "";
+    position: absolute;
+    display: block;
+    background: black;
+    height: 80px;
+    bottom: 80px;
+    width: 150px;
+    left: 50%;
+    transform: translateX(-50%);
+    clip-path: polygon(55% 0%, 45% 0%, 45% 90%, 0% 90%, 0% 100%, 100% 100%, 100% 90%, 55% 90%);
+}
+
+.television_container:after {
+    content: "";
+    box-sizing: border-box;
+    position: absolute;
+    display: block;
+    background: linear-gradient(transparent 45%, #d2864a 45%, #d2864a 55%, transparent 55%), #ffc293;
+    height: 100px;
+    bottom: -20px;
+    width: 90%;
+    max-width: 1200px;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 10px solid #d2864a;
+}
+
+.channel_counter {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: white;
+    font-size: 4em;
+    z-index: 3;
+    font-weight: 600;
+}

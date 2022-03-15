@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  background-color: rgb(186, 230, 250);
+}
+
+.monitor {
+  width: 30vw;
+  min-height: 20vh;
+  border: 1px solid black;
+  margin: 0 auto;
+  margin: 20px auto;
+  box-shadow:inset 2px 2px 4px rgb(148, 148, 148);
+}
+.container {
+  border: 3px solid gray;
+  max-width: 40vw;
+  min-height: 50vh;
+  margin: 0 auto;
+  text-align: center;
+}
+.number{
+  width: 8vw;
+  margin: 0 auto;
+}
+.number > button {
+  width: 3em;
+  height: 3em;
+
+}
+
+.proccess *{
+  width: 2em;
+  height: 2em;
+}
+
+button > h2 {
+  position: relative;
+  bottom:0.5em;
+}
+
+.proccess {
+  clear: both;
+}
+
+.proccess button:last-child, .clear {
+  vertical-align: bottom;
+  border: 1px solid rgb(73, 71, 71);
+  border-radius: 2px;
+}
+
+span img{
+  font-size: 6px;
+}
+
+
+h3{
+  display: inline-block;
+  word-wrap: normal;
+}

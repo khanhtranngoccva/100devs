@@ -1,0 +1,176 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: "Product Sans Regular", sans-serif;
+}
+
+body {
+    margin: 0;
+    /*overflow: auto;*/
+}
+
+.inline_block_container > * {
+    display: inline-block;
+}
+
+.vertical_center > * {
+    vertical-align: middle;
+}
+
+ul {
+    padding-left: 0;
+    list-style-type: none;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    /*margin-top: 5px;*/
+    /*margin-bottom: 5px;*/
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+p {
+    font-size: 1rem;
+}
+
+a {
+    text-decoration: none;
+    /*font-weight: 600;*/
+}
+
+input, svg {
+    display: block;
+    margin: auto;
+}
+
+input {
+    width: 100%;
+    border: none;
+    font-size: 1rem;
+}
+
+input:focus { outline: none;
+}
+
+header {
+    border-bottom: 2px solid #00000044;
+    padding: 15px 3%;
+    font-weight: 600;
+}
+
+nav ul {
+    text-align: center;
+    vertical-align: middle;
+}
+
+nav li {
+    display: inline-block;
+}
+
+main {
+    padding: 5px 3%;
+}
+
+img {
+    width: 100%;
+    display: block;
+    border-radius: 15px;
+}
+
+.desktop_link_item {
+    display: none;
+}
+
+.logo_item {
+    width: 100%;
+}
+
+.main_title {
+    display: block;
+}
+
+.nav_link {
+    margin-left: 10px;
+}
+
+.double_underline {
+    text-decoration: underline double #77ce85 4px;
+}
+
+.search {
+    border-radius: 5px;
+    padding: 7px 10px;
+    /*border: 1px solid rgba(100, 100, 100, 0.45);*/
+    background: rgba(0, 0, 0, 0.04);
+    line-height: 1;
+    /*font-weight: 600;*/
+    font-family: "Product Sans Regular", sans-serif;
+    vertical-align: middle;
+}
+
+.search::placeholder {
+    color: blue;
+}
+
+.hero {
+    max-width: 1280px;
+    margin: auto;
+}
+
+.person_links {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.person_link {
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    background: #5858ff;
+    margin-right: 5px;
+}
+
+
+@media only all and (min-width: 640px) {
+    .col-1-2 {
+        width: 50%;
+        padding-left: 2.5%;
+        padding-right: 2.5%
+    }
+
+    html {
+        font-size: 120%;
+    }
+}
+
+
+@media only all and (min-width: 768px) {
+    .desktop_link_item {
+        display: inline-block;
+    }
+
+    .left_item {
+        width: 15%;
+    }
+
+    .right_item {
+        width: 30%;
+    }
+
+    .logo_item {
+        width: 40%;
+    }
+
+
+}

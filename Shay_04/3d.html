@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+
+        div {
+            perspective: 200px;
+            perspective-origin: 0 0;
+        }
+
+        .box {
+            width: 100px;
+            height: 100px;
+            background: darkseagreen;
+            display: flex;
+            transform: rotateZ(20deg) scaleX(5) scaleY(5);
+            transition-duration: 1s;
+        }
+
+        .box span {
+            margin: auto;
+            color: white;
+        }
+
+
+        .box:hover {
+            background: red;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <figure class="box"><span>Box 1</span></figure>
+    <figure class="box"><span>Box 2</span></figure>
+    <figure class="box"><span>Box 3</span></figure>
+</div>
+
+</body>
+</html>

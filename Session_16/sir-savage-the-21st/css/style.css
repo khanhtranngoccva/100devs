@@ -1,0 +1,69 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+
+
+#savageSays {
+  display: none;
+}
+
+body {
+  font-family: monospace;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 10px;
+}
+
+button {
+  border-radius: 20px;
+  border: none;
+  padding: 0.4rem 0.8rem;
+  background: red;
+  color: white;
+  font-family: monospace;
+  font-size: 1.2rem;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+img{
+  height: 400px;
+}
+
+.canvas {
+  position: relative;
+}
+
+.glow {
+  width: 0.1px;
+  background: red;
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+
+}
+
+.glow1 {
+  top: 39.6%;
+  left: 50.9%;
+  /*box-shadow: 0px 0px 10px 10px red;*/
+}
+
+.glow2 {
+  top: 35.3%;
+  left: 64.9%;
+  /*box-shadow: 0px 0px 20px 20px red;*/
+}

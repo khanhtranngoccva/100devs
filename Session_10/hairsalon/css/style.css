@@ -1,0 +1,412 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+.inline_block_container > * {
+     display: inline-block;
+}
+
+.vertical_center > * {
+     vertical-align: middle;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+html {
+     font-family: "Product Sans Regular", sans-serif;
+     font-size: 100%;
+}
+
+body {
+     margin: 0;
+}
+
+a {
+     color: black;
+     text-decoration: none;
+}
+
+ul, ol {
+     list-style: none;
+     padding-left: 0;
+}
+
+h1 {
+     font-size: 2.5rem;
+}
+
+img {
+     display: block;
+     width: 100%;
+}
+/******************************************
+/* LAYOUT
+/*******************************************/
+header {
+     padding: 10px 3%;
+}
+
+footer {
+
+}
+
+.desktop_link_items {
+     text-align: center;
+     display: none;
+}
+
+.logo_item {
+     width: 10%;
+     text-align: left;
+}
+
+.book_order_nav {
+     width: 90%;
+     text-align: right;
+}
+
+.book_order_nav i {
+     margin-right: 6px;
+}
+
+.hero_container {
+     padding: 5%;
+     position: relative;
+     overflow: hidden;
+}
+
+.hero {
+     position: relative;
+     z-index: 2;
+     text-transform: uppercase;
+     /*margin-top: 70px;*/
+     /*margin-left: 70px;*/
+}
+
+.hero_background {
+     position: absolute;
+     bottom: 0;
+     right: 0;
+     z-index: 1;
+     transform-origin: 100% 100%;
+     transform: rotate(5deg);
+     width: unset;
+     height: 110%;
+     filter: brightness(0.85);
+}
+
+
+.new_customer_offer {
+     margin-top: 50px;
+     margin-bottom: 50px;
+     padding-top: 30px;
+     padding-bottom: 30px;
+     background: black;
+     color: white;
+     width: 50%;
+     min-width: 200px;
+}
+
+.new_customer_offer > * {
+     padding-left: 20px;
+     padding-right: 20px;
+}
+
+.offer_info {
+     font-weight: 300;
+     font-size: 1.2rem;
+     line-height: 1.5;
+     text-transform: uppercase;
+}
+
+.offer_lead {
+     border-left: 3px solid white;
+     padding-left: 17px;
+     padding-top: 15px;
+     padding-bottom: 15px;
+
+}
+
+.discount_amount {
+     font-weight: 600;
+     font-size: 1.7em;
+}
+
+.opening_time {
+     margin-top: 20px;
+     display: block;
+}
+
+.carousel_buttons {
+     position: absolute;
+     bottom: 20px;
+     right: 5%;
+     z-index: 2;
+     text-align: right;
+     /*position: absolute;*/
+}
+
+.carousel_button {
+     background: white;
+     border: 0;
+     padding: 10px;
+     border-radius: 50%;
+     line-height: 0;
+}
+
+.feature {
+     text-align: center;
+}
+
+.negative_padding_2 {
+     padding: -2%;
+}
+
+.feature i {
+     font-size: 4rem;
+}
+
+.feature h2 {
+     text-transform: uppercase;
+}
+
+.container {
+     padding: 15px 5%;
+}
+
+.container > * {
+     margin: auto;
+     display: block;
+     max-width: 800px;
+}
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+.logo_item {
+     font-size: 2rem;
+}
+
+.desktop_link_items {
+     font-size: 1.25rem;
+}
+
+.fa-arrow-right {
+     transform: scalex(1.2);
+}
+
+.hero_background {
+     border: 5px solid #AD9F9F;
+     border-radius: 40px;
+}
+
+.hero{
+     color: white;
+}
+
+.clearfix h2:first-child {
+     margin-top: 0;
+}
+
+.special_discount {
+     padding: 60px;
+     background: url("../images/bg1.png") no-repeat;
+     background-size: cover;
+}
+
+
+.link_button {
+     display: block;
+     padding: 10px;
+     color: white;
+     background: black;
+     width: fit-content;
+     text-transform: uppercase;
+}
+
+.link_button i {
+     margin-right: 10px;
+}
+
+.link_button.invert {
+     color: black;
+     background: white;
+}
+
+.staff {
+     text-align: center;
+}
+
+.slogan h2 {
+     text-transform: uppercase;
+}
+
+.staff .info {
+     background: black;
+     color: white;
+     width: 80%;
+     display: block;
+     margin: auto;
+     padding: 10px 0;
+     position: relative;
+     top: -20px;
+}
+
+.staff .name, .staff .occupation {
+     display: block;
+}
+
+.staff .name {
+     font-weight: 600;
+     font-size: 1.2rem;
+}
+
+.center_tagline {
+     text-align: center;
+     font-size: 3rem;
+     margin-bottom: 20px;
+}
+.stylebook_image {
+     margin-bottom: 5px;
+}
+
+@media only all and (min-width: 768px) {
+     .opening_time {
+          position: absolute;
+          right: 20px;
+          top: 0;
+          transform-origin: 100% 0%;
+          margin-top: 0;
+          transform: rotate(90deg) translateX(100%);
+          font-weight: 600;
+     }
+
+     .feature {
+          padding: 2%;
+     }
+
+     .hero_container {
+          padding: 70px 0 0 70px;
+     }
+
+     .new_customer_offer {
+          width: 25%;
+     }
+
+     .carousel_buttons {
+          right: 20px;
+     }
+
+     .col-md-4 {
+          float: left;
+          width: 33%;
+     }
+
+
+     .col-md-6 {
+          float: left;
+          width: 50%;
+     }
+
+     .left_half {
+          padding-right: 2%;
+     }
+
+     .right_half {
+          padding-left: 2%;
+     }
+
+     .hero_background {
+          filter: brightness(0.9);
+     }
+
+     .desktop_link_items {
+          width: 80%;
+          display: inline-block;
+     }
+
+     .desktop_link_item a {
+          padding: 10px 5px;
+     }
+
+     .book_order_nav {
+          width: 10%;
+          padding: 10px 5px;
+     }
+
+     .feature:first-of-type {
+          padding-left: 0;
+     }
+
+     .feature:last-of-type {
+          padding-right: 0;
+     }
+
+     .personnel {
+          /*padding: 2%;*/
+          width: 32%;
+          margin-left: 1%;
+          margin-right: 1%;
+     }
+
+     .personnel:first-of-type {
+          margin-left: 0;
+     }
+
+     .personnel:last-of-type {
+          margin-right: 0;
+     }
+
+     .row_span_1 {
+          aspect-ratio: 1/1;
+
+     }
+
+     .row_span_2 {
+          aspect-ratio: 1/2;
+     }
+
+     .stylebook_image {
+          height: 100%;
+          object-fit: cover;
+          object-position: center;
+          padding: 2%;
+     }
+
+
+}
+
+@media only all and (min-width: 1100px) {
+     .hero {
+          color: black;
+     }
+
+     .hero_background {
+          filter: brightness(1.1);
+     }
+
+     .opening_time {
+          padding: 5px;
+          border-radius: 5px;
+          background: white;
+     }
+}

@@ -1,0 +1,113 @@
+/* Box Model Hack */
+* {
+     box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+header{
+     float: left;
+     width: 20%;
+     font-family:'Roboto',' UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-weight: 300;
+     /* this removes the bullet points from the nav */
+}
+
+main{
+     float: left;
+     width: 60%;
+}
+
+aside{
+     float: right;
+     width: 20%;
+}
+
+/* this removes the underline from the links */
+a{
+     text-decoration: none;
+}
+
+/* This makes the navigation have no bullet points and sets a margin to space out the links */
+ul li{
+     list-style-type: none;
+     margin-top: 10px;
+}
+
+/* This makes the links in the navigation bar on the left-hand side gray */
+nav ul li a{
+     color: gray;
+}
+
+p{
+     font-family:'Roboto',' UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-weight: 300;
+     color: gray;
+}
+
+/* This makes the Join Extra Crunch bold and orange */
+li:nth-child(2) a{
+     font-weight: 500;
+     color: orange;
+   
+}
+
+/* This makes the main section link black, along with the aside links */
+h2 a{
+     color:black
+}
+
+/* This makes the h1 tag the same color and style */
+h1{
+     font-size: 2em;
+     font-family: 'Roboto',' UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-weight: 900;
+}
+
+/* makes h2 tags same colors and styles */
+h2{
+     font-size: 1.5em;
+     font-family: 'Roboto',' UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-weight: 700;
+}
+
+/* This will give the author names (span tags) a font size and font-weight value */
+span{
+     font-size: 1em;
+     font-family: 'Roboto',' UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-weight: 500;
+}
+
+/* This makes The Latest h2 heading smaller than the default size. */
+
+main > h2{
+     font-size: 1em;
+     font-weight: 400;
+     /* border-bottom: 1px solid lightgray; */
+     padding-bottom: 10px;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/

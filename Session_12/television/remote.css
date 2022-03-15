@@ -1,0 +1,121 @@
+* {
+    box-sizing: border-box;
+}
+
+.canvas {
+    align-items: center;
+    flex-direction: column;
+    color: black;
+    display: flex;
+    /*column-gap: 0px;*/
+    row-gap: 120px;
+}
+
+.remote {
+    --long: 180px;
+    --short: 350px;
+    --height: 20px;
+    --border: 0px solid black;
+    --top: #d0d0d0;
+    --front: #c2c2c2;
+    --right: #919191;
+    /*position: relative;*/
+    position: fixed;
+    width: var(--long);
+    height: var(--short);
+
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    perspective: 1600px;
+    perspective-origin: 100px -1100px;
+    /*transform: skewY(20deg);*/
+    animation: floating 6s ease-in-out forwards infinite;
+    /*transform-style: preserve-3d;*/
+}
+
+.big_face {
+    width: var(--long);
+    height: var(--short);
+    border: var(--border);
+    position: absolute;
+    transform-origin: 50% 50%;
+}
+
+.top {
+    --button_gap: 10px;
+    transform: rotateX(-90deg) scale(1, -1);
+    background: var(--top);
+    display: grid;
+    padding: var(--button_gap);
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    grid-gap: var(--button_gap);
+    transform-style: preserve-3d;
+}
+
+
+.side {
+    position: absolute;
+    width: var(--long);
+    height: var(--height);
+    background: var(--top);
+}
+
+.front {
+    transform: translateZ(calc(var(--short) / 2)) translateY(calc(var(--short) / 2));
+    background: var(--front);
+}
+
+.back {
+    transform: translateY(calc(var(--short) / 2)) translateZ(calc(var(--short) / (-2)));
+    background: var(--front);
+}
+
+.right {
+    transform: translateX(calc(var(--long) - var(--short) / 2)) translateY(calc(var(--short) / 2)) rotateY(90deg);
+    background: var(--right);
+    width: var(--short);
+    height: var(--height);
+}
+
+.left {
+    transform: translateX(calc(0px - var(--short) / 2)) translateY(calc(var(--short) / 2)) rotateY(90deg);
+    width: var(--short);
+    height: var(--height);
+    background: var(--right);
+}
+
+.bottom {
+    transform: translateY(var(--height)) rotateX(-90deg);
+    background: var(--top);
+}
+
+.power_off_button, .channel_button, .scroll_button {
+    background: #ff5d5d;
+    border-radius: 50%;
+    width: 100%;
+    aspect-ratio: 1/1;
+    font-size: 1.5rem;
+    outline: none;
+    border: none;
+    box-shadow: 0px 4px #bd0000;
+    transition: box-shadow 0.1s ease-in-out, transform 0.1s ease-in-out;
+    margin-block: 0;
+}
+
+.power_off_button.turned_on {
+    background: #4aff6c;
+    box-shadow: 0px 4px #3ace56;
+}
+
+.channel_button, .scroll_button {
+    background: white;
+    box-shadow: 0 4px gray;
+}
+
+.power_off_button:active, .channel_button:active, .scroll_button:active {
+    box-shadow: none;
+    transform: translateY(4px);
+}
+

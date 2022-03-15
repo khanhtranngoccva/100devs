@@ -1,0 +1,170 @@
+/* Box Model Hack */
+* {
+    box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.clear {
+    clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+/*html, body{*/
+/*    height: 100%;*/
+/*}*/
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    height: 100%;
+}
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+nav,.top{
+    float: left;
+    width: 15%;
+}
+nav{
+    padding-left: 1rem;
+    height: 100%;
+    border: solid black;
+}
+
+.top{
+    width: 85%;
+}
+
+.top > main{
+    width: 58%;
+    float: left;
+    margin-right: 2%;
+}
+
+.top > aside{
+    width: 40%;
+    float: left;
+}
+
+
+main > img{
+    width: 100%;
+}
+
+.yellow{
+    font-size: 20px;
+    color: RGB(246, 150, 74);
+    font-weight: bold;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+nav li{
+    margin-bottom: 1rem;
+}
+
+nav a{
+    color: gray;
+    text-decoration: none;
+    font-size: 25px;
+}
+.login{
+    font-size: 18px;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+
+h2{
+    font-weight: 900;
+    font-size: 28px;
+}
+span{
+    font-weight: 700;
+    float:left;
+}
+
+p{
+    color: gray;
+    font-size: 25px;
+    float: left;
+}
+
+aside *{
+    float: left;
+}
+
+aside li{
+    padding: 0px;
+    border-bottom: 2px solid rgb(202, 202, 202);
+}
+
+.lastasideli{
+    border-bottom: none;
+}
+
+.one{
+    float: left;
+    width: 83%;
+    border-bottom: 2px solid rgb(202, 202, 202);
+    margin: 0 1%;
+}
+.two{
+    float: left;
+    width: 28.3333%;
+}
+.three{
+    float: left;
+    width: 26.3333%;
+    margin: 0 1%;
+}
+.four{
+    float: left;
+    width: 28.3333%;
+}
+.four img{
+    width: 100%;
+}
+.AnthonyHa{
+    width: 100%;
+}
+.wonderspan{
+    color: gray;
+}
+
+.main_container {
+    width: 85%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: 100%;
+}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}

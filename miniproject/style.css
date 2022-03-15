@@ -1,0 +1,59 @@
+.pizzabox {
+
+    background-image: url("https://cdn.glitch.global/dec6a04d-54c4-49af-b11f-735e6e8a4507/dominos.jpeg?v=1646962779833");
+    background-repeat: no-repeat;
+    margin:auto;
+    width: 600px;
+    height: 600px;
+
+
+
+
+    /* this  pizzabox is supposed to be a background image that goes underneath the 25 boxes
+      it's a purely aesthetic feature which is supposed to make it seem like the puzzle
+      is inside of a pizza box*/
+
+}
+
+.box {
+    background-color: lightgrey;
+    color: blue;
+    border: solid black;
+    padding: 200px;
+    font-size: 150%;
+
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    height: 500px;
+    width: 500px;
+    margin:auto;
+    opacity: 0.8;
+}
+
+.title  {
+    padding: 30px;
+    font-size: 40px;
+    border-width: 8px;
+    border-color: #e31837;
+    background-color: #006491;
+    color: white;
+    border-style: groove;
+    border-radius: 35px;
+    box-shadow: 0px 0px 5px rgba(66,66,66,.75);
+    text-shadow: 0px 0px 5px rgba(66,66,66,.75);
+    inline-size:440px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+
+
+}
+
