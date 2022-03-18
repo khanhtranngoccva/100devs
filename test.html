@@ -32,21 +32,25 @@
         .flex_image {
             width: 200px;
             aspect-ratio: 1/1;
-            transform: skew(-45deg, 35deg);
+            transform: skew(-45deg, 35deg) !important;
             box-shadow: 0 0 20px 0 white;
+            object-fit: cover;
             border-radius: 30px;
             opacity: 0.9;
+            position: relative;
+            filter: brightness(1.3);
         }
+
 
     </style>
 </head>
 <body>
 <div class="flex_container">
-    <img class="flex_image" src="img_2.png" alt="">
-    <img class="flex_image" src="img_1.png" alt="">
-    <img class="flex_image" src="img_3.png" alt="">
-    <img class="flex_image" src="img_4.png" alt="" style="box-shadow: 0 0 20px 0 #0071c1;">
-    <img class="flex_image" src="img_5.png" alt="" style="box-shadow: 0 0 20px 0 #ff6567; transform: skew(-45deg, 35deg) scale(1.3);">
+    <img class="flex_image" src="img_4.png" alt="" style="left: 150px; transform: none">
+    <img class="flex_image" src="img_1.png" alt="" style="left: 75px; ">
+    <img class="flex_image" src="img_3.png" alt="" style="left: 0px; ">
+    <img class="flex_image" src="img_2.png" alt="" style="left: -75px; box-shadow: 0 0 20px 0 #0071c1;">
+    <img class="flex_image" src="img_5.png" alt="" style="left: -150px; box-shadow: 0 0 20px 0 #ff6567; transform: skew(-45deg, 35deg) scale(1.3);">
 
 </div>
 
