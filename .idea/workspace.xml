@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e85317c3-930d-4029-9416-86c2baffb67a" name="Changes" comment="Second commit">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class Materials/class20-materials_.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class Materials/class21-materials.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class Materials/class22-materials.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/age-checker/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/age-checker/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/age-checker/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/age-checker/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/age-checker/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/1/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/1/imgs/andi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/1/imgs/claire.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/1/imgs/nikki.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/1/imgs/sharleen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/1/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/2/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/2/imgs/andi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/2/imgs/claire.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/2/imgs/nikki.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/2/imgs/sharleen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/2/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/3/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/3/imgs/andi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/3/imgs/claire.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/3/imgs/nikki.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/3/imgs/sharleen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bachelor-code/3/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/basic-css/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/basic-css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/basic-css/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/box-model-practice/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/box-model-practice/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bring-it-on/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bring-it-on/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bring-it-on/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bring-it-on/img/bring-it-on.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bring-it-on/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/bring-it-on/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/layout1/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/layout1/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/layout1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/layout1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/layout1/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/layout2/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/layout2/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/layout2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/layout2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/layout2/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/layout2/khan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/layout3/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/layout3/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/layout3/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/layout3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/layout3/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-dog-photos/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-dog-photos/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-dog-photos/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-dog-photos/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-dog-photos/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-dog-photos/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-dog-photos/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-dog-photos/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-dog-photos/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-dog-photos/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-listen-to-your-heart/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-listen-to-your-heart/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-listen-to-your-heart/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-listen-to-your-heart/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-listen-to-your-heart/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-listen-to-your-heart/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-listen-to-your-heart/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-listen-to-your-heart/img/listen.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-listen-to-your-heart/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-listen-to-your-heart/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-listen-to-your-heart/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-street-fighter/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-street-fighter/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-street-fighter/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-street-fighter/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-street-fighter/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-street-fighter/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-street-fighter/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-street-fighter/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-street-fighter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/objects-street-fighter/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/relationship-css/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/relationship-css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/relationship-css/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-in-paradise-after-paradise/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-in-paradise-after-paradise/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-in-paradise-after-paradise/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-in-paradise-after-paradise/img/after-paradise.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-in-paradise-after-paradise/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-in-paradise-after-paradise/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-in-paradise-after-paradise/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-in-paradise-after-paradise/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-in-paradise-after-paradise/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-in-paradise-after-paradise/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-winter-games/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-winter-games/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-winter-games/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-winter-games/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-winter-games/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-winter-games/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-winter-games/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-winter-games/img/winter.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-winter-games/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-winter-games/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/review-winter-games/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/simple-functions/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/simple-functions/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/simple-functions/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/simple-functions/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/simple-functions/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/sir-savage-the-21st/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/sir-savage-the-21st/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/sir-savage-the-21st/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/sir-savage-the-21st/img/sir-savage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/sir-savage-the-21st/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/sir-savage-the-21st/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/specificity-practice/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/specificity-practice/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/specificity-practice/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/temperature-converter/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/temperature-converter/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/temperature-converter/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/temperature-converter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/temperature-converter/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/template/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/template/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/template/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/template/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/variable-fun-time/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/variable-fun-time/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/variable-fun-time/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/variable-fun-time/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/variable-fun-time/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-fight-to-the-finish/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-fight-to-the-finish/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-fight-to-the-finish/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-fight-to-the-finish/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-fight-to-the-finish/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-fight-to-the-finish/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-fight-to-the-finish/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-fight-to-the-finish/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-fight-to-the-finish/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-in-it-to-win-it/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-in-it-to-win-it/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-in-it-to-win-it/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-in-it-to-win-it/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-in-it-to-win-it/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-in-it-to-win-it/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-in-it-to-win-it/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-in-it-to-win-it/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-in-it-to-win-it/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-worldwide-cheersmack/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-worldwide-cheersmack/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-worldwide-cheersmack/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-worldwide-cheersmack/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-worldwide-cheersmack/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-worldwide-cheersmack/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-worldwide-cheersmack/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-worldwide-cheersmack/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-worldwide-cheersmack/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/arrays-worldwide-cheersmack/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/bring-it-on-all-or-nothing/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/bring-it-on-all-or-nothing/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/bring-it-on-all-or-nothing/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/bring-it-on-all-or-nothing/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/bring-it-on-all-or-nothing/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/bring-it-on-all-or-nothing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_19/bring-it-on-all-or-nothing/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/arrays-worldwide-cheersmack/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/arrays-worldwide-cheersmack/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/arrays-worldwide-cheersmack/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/arrays-worldwide-cheersmack/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/arrays-worldwide-cheersmack/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/arrays-worldwide-cheersmack/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/arrays-worldwide-cheersmack/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/arrays-worldwide-cheersmack/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/arrays-worldwide-cheersmack/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/arrays-worldwide-cheersmack/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-dog-photos/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-dog-photos/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-dog-photos/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-dog-photos/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-dog-photos/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-dog-photos/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-dog-photos/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-dog-photos/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-dog-photos/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-dog-photos/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-listen-to-your-heart/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-listen-to-your-heart/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-listen-to-your-heart/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-listen-to-your-heart/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-listen-to-your-heart/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-listen-to-your-heart/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-listen-to-your-heart/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-listen-to-your-heart/img/listen.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-listen-to-your-heart/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-listen-to-your-heart/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-listen-to-your-heart/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-nasa/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-nasa/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-nasa/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-nasa/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-nasa/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-nasa/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-nasa/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-nasa/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-nasa/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-nasa/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-shots/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-shots/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-shots/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-shots/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-shots/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-shots/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-shots/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-shots/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-shots/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-shots/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-street-fighter/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-street-fighter/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-street-fighter/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-street-fighter/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-street-fighter/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-street-fighter/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-street-fighter/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-street-fighter/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-street-fighter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/objects-street-fighter/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-in-paradise-after-paradise/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-in-paradise-after-paradise/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-in-paradise-after-paradise/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-in-paradise-after-paradise/img/after-paradise.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-in-paradise-after-paradise/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-in-paradise-after-paradise/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-in-paradise-after-paradise/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-in-paradise-after-paradise/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-in-paradise-after-paradise/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-in-paradise-after-paradise/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-in-paradise/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-in-paradise/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-in-paradise/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-in-paradise/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-in-paradise/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-in-paradise/img/paradise.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-in-paradise/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-in-paradise/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-summer-games/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-summer-games/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-summer-games/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-summer-games/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-summer-games/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-summer-games/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-summer-games/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-summer-games/img/summer.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-summer-games/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-summer-games/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-winter-games/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-winter-games/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-winter-games/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-winter-games/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-winter-games/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-winter-games/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-winter-games/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-winter-games/img/winter.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-winter-games/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-winter-games/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_20/review-winter-games/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/alien-rangers-review/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/alien-rangers-review/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/alien-rangers-review/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/alien-rangers-review/img/alien-rangers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/alien-rangers-review/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/alien-rangers-review/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/ejs_data/ejs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/ejs_data/ejs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/jsinfo_arrays/array2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/mighty-morphin-review/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/mighty-morphin-review/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/mighty-morphin-review/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/mighty-morphin-review/img/mighty-morphin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/mighty-morphin-review/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/mighty-morphin-review/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-dog-photos/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-dog-photos/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-dog-photos/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-dog-photos/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-dog-photos/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-dog-photos/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-dog-photos/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-dog-photos/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-dog-photos/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-dog-photos/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-nasa/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-nasa/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-nasa/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-nasa/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-nasa/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-nasa/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-nasa/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-nasa/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-nasa/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-nasa/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-shots/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-shots/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-shots/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-shots/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-shots/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-shots/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-shots/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-shots/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-shots/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-shots/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-street-fighter/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-street-fighter/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-street-fighter/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-street-fighter/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-street-fighter/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-street-fighter/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-street-fighter/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-street-fighter/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-street-fighter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-street-fighter/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-zeo/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-zeo/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-zeo/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-zeo/img/neo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-zeo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_21/objects-zeo/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/array_polyfills/polyfill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/arrow_constructor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/more_objects/object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/mosh/mosh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-dog-photos/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-dog-photos/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-dog-photos/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-dog-photos/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-dog-photos/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-dog-photos/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-dog-photos/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-dog-photos/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-dog-photos/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-dog-photos/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-lost-galaxy/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-lost-galaxy/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-lost-galaxy/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-lost-galaxy/img/lost-galaxy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-lost-galaxy/img/neo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-lost-galaxy/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-lost-galaxy/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-nasa/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-nasa/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-nasa/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-nasa/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-nasa/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-nasa/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-nasa/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-nasa/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-nasa/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-nasa/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-shots/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-shots/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-shots/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-shots/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-shots/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-shots/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-shots/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-shots/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-shots/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-shots/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-street-fighter/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-street-fighter/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-street-fighter/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-street-fighter/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-street-fighter/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-street-fighter/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-street-fighter/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-street-fighter/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-street-fighter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/objects-street-fighter/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/space-review/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/space-review/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/space-review/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/space-review/img/alien-rangers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/space-review/img/space.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/space-review/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/space-review/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/turbo-review/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/turbo-review/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/turbo-review/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/turbo-review/img/mighty-morphin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/turbo-review/img/turbo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/turbo-review/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_22/turbo-review/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_23/JSinfo/cloning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_23/JSinfo/varletconst.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_26/cocktails/cocktails.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_26/cocktails/cocktails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_26/url_shortener/shortener.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_27/avaxmarket/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_27/avaxmarket/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_27/cardgame/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_27/cardgame/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_27/cardgame/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_27/cardgame/img/all-or-nothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_27/cardgame/img/bring-it-on-again.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_27/cardgame/img/fight-to-the-finish.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_27/cardgame/img/in-it-to-win-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_27/cardgame/img/worldwide-cheersmack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_27/cardgame/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_28/books/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_28/books/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_28/books/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_28/books/img/pokemon.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_28/books/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/New folder.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/202011180236_clinical lab equipment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/8111407_sendarrow_right_arrow_arrows_next_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/Black_Male_Doctor_Portrait_732x549-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/Frame-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/Frame-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/Frame-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/Frame-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/Frame-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/Frame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/GettyImages-fasting-diet-plan-1200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/ImageForNews_702152_16426903658107072.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/_114826015_gettyimages-56959507.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/calendar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/circle-arrow-right-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/hospital_156022646.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/icons8-next-page-52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/name nd logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/people.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/pexels-pixabay-208512 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/pngegg (11).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/pngegg (5).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/pngegg 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug_6/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inverseMatrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/long_multiplication.js" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars/long_multiplication.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_10/restaurant/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Session_10/restaurant/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Sass File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="23ubLFC71qfoXwbm9Xra99sdVeU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Session_28" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\LeonNoelTheSensei\Session_28" />
+      <recent name="C:\Projects\LeonNoelTheSensei\Session_27" />
+      <recent name="C:\Projects\LeonNoelTheSensei\Session_13\Thermostat\css" />
+      <recent name="C:\Projects\LeonNoelTheSensei\Session_13" />
+      <recent name="C:\Projects\LeonNoelTheSensei\Session_12" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\LeonNoelTheSensei" />
+      <recent name="C:\Projects\LeonNoelTheSensei\Class Materials" />
+      <recent name="C:\Projects\LeonNoelTheSensei\Session_12\flex_BBC" />
+      <recent name="C:\Projects\LeonNoelTheSensei\Session_12\flex_BBC\css" />
+      <recent name="C:\Projects\LeonNoelTheSensei\Session_08\tc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.inverseMatrix.js">
+    <configuration name="QuickRun" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="inverseMatrix.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/inverseMatrix.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Session_26/objects-constructor-fun/js/main.js" working-dir="$PROJECT_DIR$/Session_26/objects-constructor-fun/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Session_23/objects-dog-photos/js/main.js" working-dir="$PROJECT_DIR$/Session_23/objects-dog-photos/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="varletconst.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Session_23/JSinfo/varletconst.js" working-dir="$PROJECT_DIR$/Session_23/JSinfo">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.inverseMatrix.js" />
+        <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Node.js.main.js (1)" />
+        <item itemvalue="Node.js.main.js" />
+        <item itemvalue="Node.js.varletconst.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e85317c3-930d-4029-9416-86c2baffb67a" name="Changes" comment="" />
+      <created>1642586862491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642586862491</updated>
+      <workItem from="1642586863950" duration="3766000" />
+      <workItem from="1642664118129" duration="36309000" />
+      <workItem from="1643079990918" duration="11196000" />
+      <workItem from="1643164516091" duration="29482000" />
+      <workItem from="1643359961735" duration="11044000" />
+      <workItem from="1643552138780" duration="4194000" />
+      <workItem from="1643807705749" duration="3009000" />
+      <workItem from="1643936196834" duration="10119000" />
+      <workItem from="1643959415095" duration="41314000" />
+      <workItem from="1644295789680" duration="7349000" />
+      <workItem from="1644375842593" duration="27733000" />
+      <workItem from="1644496646977" duration="57436000" />
+      <workItem from="1644735047178" duration="3771000" />
+      <workItem from="1644835469759" duration="10450000" />
+      <workItem from="1645013449419" duration="27236000" />
+      <workItem from="1645450966975" duration="6491000" />
+      <workItem from="1645530704410" duration="57127000" />
+      <workItem from="1646313920734" duration="29493000" />
+      <workItem from="1646476874397" duration="1151000" />
+      <workItem from="1646801999821" duration="30739000" />
+      <workItem from="1647441333084" duration="5835000" />
+      <workItem from="1647490360909" duration="48938000" />
+      <workItem from="1647964523693" duration="18268000" />
+      <workItem from="1648166282510" duration="28576000" />
+      <workItem from="1648349317671" duration="17004000" />
+      <workItem from="1648447093315" duration="15271000" />
+      <workItem from="1648564534995" duration="47000" />
+      <workItem from="1648734979081" duration="12682000" />
+      <workItem from="1648893853592" duration="4995000" />
+      <workItem from="1648974949612" duration="4625000" />
+      <workItem from="1648980061253" duration="48504000" />
+      <workItem from="1649729441489" duration="5213000" />
+      <workItem from="1649855801906" duration="21896000" />
+      <workItem from="1650209979310" duration="1783000" />
+      <workItem from="1650545188658" duration="455000" />
+      <workItem from="1650643257627" duration="5286000" />
+    </task>
+    <task id="LOCAL-00001" summary="Second commit">
+      <created>1647568874328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647568874328</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Session_22/turbo-review/js/main.js</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

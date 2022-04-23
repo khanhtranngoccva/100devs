@@ -1,0 +1,62 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+}
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+header,footer {
+     height: 100px;
+     background: pink;
+}
+
+.col-4 {
+     float: left;
+     background: #ffe863;
+     height: 150px;
+     width: 33.33%;
+}
+
+.col-4:nth-of-type(2) {
+     background: lightgreen;
+}
+
+.col-6 {
+     float: left;
+     background: #2fafff;
+     width: 50%;
+     height: 150px;
+}
+
+.col-6:nth-of-type(2) {
+     background: mediumpurple;
+}
+
+.
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/

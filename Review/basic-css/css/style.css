@@ -1,0 +1,25 @@
+h1 {
+    color: blue;
+    text-decoration: underline double blue 2px;
+    background: gold;
+}
+
+h2 {
+    color: purple;
+    font-weight: 600;
+    font-size: 25px;
+    border: 2px solid orange;
+}
+
+section {
+    width: 50%;
+    height: 200px;
+    background: white;
+}
+
+footer {
+    background: black;
+    border: 2px solid lightgreen;
+    color: white;
+    font: 20px "Product Sans Regular", 'Helvetica', system-ui;
+}
