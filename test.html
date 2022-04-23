@@ -11,48 +11,39 @@
 
         body {
             display: flex;
-            position: fixed;
-            width: 100vw;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
             height: 100vh;
-            background: #22211f;
             margin: 0;
-            justify-content: center;
-            align-items: center;
+            background: black;
+            /*font-size: 30px;*/
         }
 
-        .flex_container {
-            display: flex;
-            margin: auto;
-            position: relative;
-            flex-direction: column-reverse;
-            align-items: center;
-            justify-content: center;
-        }
+h1 {
+    font-size: 5rem;
+    font-family: "Google Sans", sans-serif;
+    font-weight: 900;
+    background: linear-gradient(to top right, #ffb026, #ff5d5d);
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    position: relative;
+}
 
-        .flex_image {
-            width: 200px;
-            aspect-ratio: 1/1;
-            transform: skew(-45deg, 35deg) !important;
-            box-shadow: 0 0 20px 0 white;
-            object-fit: cover;
-            border-radius: 30px;
-            opacity: 0.9;
-            position: relative;
-            filter: brightness(1.3);
-        }
-
-
+h1::after {
+    content: "Hiii! I'm Khanh!";
+    background: inherit;
+    -webkit-background-clip: inherit;
+    background-clip: inherit;
+    position: absolute;
+    top: 0;
+    left: 0;
+    filter: brightness(1.8) blur(20px);
+}
     </style>
 </head>
 <body>
-<div class="flex_container">
-    <img class="flex_image" src="img_4.png" alt="" style="left: 150px; transform: none">
-    <img class="flex_image" src="img_1.png" alt="" style="left: 75px; ">
-    <img class="flex_image" src="img_3.png" alt="" style="left: 0px; ">
-    <img class="flex_image" src="img_2.png" alt="" style="left: -75px; box-shadow: 0 0 20px 0 #0071c1;">
-    <img class="flex_image" src="img_5.png" alt="" style="left: -150px; box-shadow: 0 0 20px 0 #ff6567; transform: skew(-45deg, 35deg) scale(1.3);">
-
-</div>
-
+<h1>Hiii! I'm Khanh!</h1>
 </body>
 </html>

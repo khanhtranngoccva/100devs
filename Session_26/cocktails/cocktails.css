@@ -1,0 +1,179 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+:root {
+    --background: linear-gradient(45deg, #ff8a96, #4464ff);
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    background: #000000;
+    margin: 0;
+    font-family: "Product Sans Regular", system-ui;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+ul {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+main {
+    margin: 0 auto;
+    padding: 0 4%;
+    width: 100%;
+}
+
+form {
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: center;
+    font-size: 1.2rem;
+    margin: 0 auto;
+    max-width: 800px;
+
+}
+
+.search_form label h1 {
+    font-size: inherit;
+    margin: 0;
+}
+
+.search_form label {
+    font-size: 3rem;
+    text-align: center;
+    flex-basis: 100%;
+    background: var(--background);
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    margin-block: 1.2rem;
+    font-weight: 600;
+    filter: brightness(1.3);
+    position: relative;
+}
+
+.search_form label::before {
+    content: "Find your next cocktail.";
+    display: block;
+    background: inherit;
+    color: inherit;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    filter: brightness(1.4) blur(1px);
+}
+
+.search_form input {
+    flex: 1;
+    width: 100%;
+    font-size: inherit;
+    font-family: inherit;
+    border: none;
+    border-radius: 50px 0 0 50px;
+    padding: 0.8rem 0.8rem 0.8rem 1rem;
+}
+
+.search_form input[type="submit"] {
+    flex: none;
+    width: fit-content;
+    border: none;
+    padding-right: 1rem;
+    padding-left: 0.8rem;
+    border-radius: 0 50px 50px 0;
+    background: var(--background);
+    color: white;
+}
+
+.results {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.wine_cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+    padding: 1rem;
+    color: white;
+}
+
+.wine_card {
+    width: 100%;
+    /*height: 120px;*/
+    position: relative;
+    background: black;
+    z-index: 1;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 0.5rem;
+}
+
+.wine_card::after, .wine_card::before {
+    content: "";
+    display: block;
+    border-radius: inherit;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    z-index: -1;
+    transform: translate(-50%, -50%);
+    background: black;
+}
+
+.wine_card::before {
+    --border-width: 0.25rem;
+    width: calc(100% + var(--border-width));
+    height: calc(100% + var(--border-width));
+    background: var(--background);
+    filter: brightness(1.5);
+}
+
+.wine_name {
+    text-align: center;
+    margin-block: 0.3rem;
+    font-size: 1.4rem;
+    min-height: 4rem;
+    vertical-align: middle;
+}
+
+.wine_thumbnail {
+    position: relative;
+}
+
+.wine_thumbnail::after {
+    content: "";
+    display: block;
+    position: absolute;
+    background: red;
+    width: 100%;
+    height: 100%;
+    z-index: 30;
+    /*box-shadow: inset 0 0 10px 10px white;*/
+}
+
+@media only screen and (min-width: 640px) {
+    .wine_cards {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+
+@media only screen and (min-width: 768px) {
+    .wine_cards {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}

@@ -29,7 +29,7 @@ function add(...numbers) {
     const max_digits = Math.max(...number_reversed_arrays.map(x=>x.length));
     const result = [];
     let mem = 0;
-    for (let i = 0; i <= max_digits; i++) {
+    for (let i = 0; i < max_digits || mem !== 0; i++) {
         const digit_addition = number_reversed_arrays.map(number_reversed_array => number_reversed_array[i] !== undefined ? number_reversed_array[i] : 0).reduce((a, b) => a + b) + mem;
         const result_digit = digit_addition % 10;
         mem = Math.floor(digit_addition / 10);
