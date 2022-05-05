@@ -24,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Calculator" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -35,29 +35,31 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="23ubLFC71qfoXwbm9Xra99sdVeU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Session_28" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Programming/Projects/CodeWars-solutions",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Projects\LeonNoelTheSensei\Session_28" />
@@ -74,8 +76,19 @@
       <recent name="C:\Projects\LeonNoelTheSensei\Session_08\tc" />
     </key>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="Roshambo" />
+    </option>
+  </component>
   <component name="RunManager" selected="Node.js.inverseMatrix.js">
     <configuration name="QuickRun" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter9.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Session_30/chapter9.js" working-dir="$PROJECT_DIR$/Session_30">
+      <method v="2" />
+    </configuration>
+    <configuration name="expresso.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Session_30/expresso.js" working-dir="$PROJECT_DIR$/Session_30">
       <method v="2" />
     </configuration>
     <configuration name="inverseMatrix.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/inverseMatrix.js" working-dir="$PROJECT_DIR$">
@@ -84,22 +97,16 @@
     <configuration name="main.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Session_26/objects-constructor-fun/js/main.js" working-dir="$PROJECT_DIR$/Session_26/objects-constructor-fun/js">
       <method v="2" />
     </configuration>
-    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Session_23/objects-dog-photos/js/main.js" working-dir="$PROJECT_DIR$/Session_23/objects-dog-photos/js">
-      <method v="2" />
-    </configuration>
     <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="varletconst.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Session_23/JSinfo/varletconst.js" working-dir="$PROJECT_DIR$/Session_23/JSinfo">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.inverseMatrix.js" />
+        <item itemvalue="Node.js.expresso.js" />
+        <item itemvalue="Node.js.chapter9.js" />
         <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Node.js.inverseMatrix.js" />
         <item itemvalue="Node.js.main.js (1)" />
-        <item itemvalue="Node.js.main.js" />
-        <item itemvalue="Node.js.varletconst.js" />
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +154,12 @@
       <workItem from="1650209979310" duration="1783000" />
       <workItem from="1650545188658" duration="455000" />
       <workItem from="1650643257627" duration="5668000" />
+      <workItem from="1650902431947" duration="12268000" />
+      <workItem from="1651311017276" duration="10652000" />
+      <workItem from="1651391076587" duration="7635000" />
+      <workItem from="1651568715724" duration="1873000" />
+      <workItem from="1651752873753" duration="1950000" />
+      <workItem from="1651792206187" duration="413000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1647568874328</created>
@@ -171,7 +184,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second commit" />
