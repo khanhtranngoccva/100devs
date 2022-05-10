@@ -127,3 +127,18 @@ function Puppy(name, species, weight) {
 
 let mimi = new Kitten("Mimi", "Cheshire Cat", 3);
 console.log(isType(mimi))  // Kitten
+
+
+
+function MagicHat() {
+    let rabbit = {
+        color: "white",
+        name: "Cookie",
+        species: "American Rabbit",
+    };
+
+    this.abracadabra = function() {
+        // YOU CAN DO SOMETHING ELSE TO THE RABBIT, BUT IT CAN NEVER BE ACCESSED OR SEEN FROM THE OUTSIDE. YAY!
+        console.log(rabbit);
+    }
+}

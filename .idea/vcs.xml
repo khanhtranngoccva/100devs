@@ -3,6 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TicTacToeExpanded" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/debug_7/modern-react-captcha" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/debug_7/react-simple-captcha" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github_branch_practice" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github_practice" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github_practice/Calculator" vcs="Git" />

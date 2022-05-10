@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e85317c3-930d-4029-9416-86c2baffb67a" name="Changes" comment="Second commit">
+      <change afterPath="$PROJECT_DIR$/Session_32/objects-practice/js/main2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculator/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +39,13 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Session_32/objects-practice/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Session_32/objects-practice/js/main.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Session_32/objects-practice/js/main2.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/inverseMatrix.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -46,20 +57,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Programming/Projects/CodeWars-solutions",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Programming/Projects/LeonNoelTheSensei&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Projects\LeonNoelTheSensei\Session_28" />
@@ -81,7 +93,7 @@
       <command value="Roshambo" />
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.inverseMatrix.js">
+  <component name="RunManager" selected="Node.js.main2.js">
     <configuration name="QuickRun" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -94,7 +106,7 @@
     <configuration name="inverseMatrix.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/inverseMatrix.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="main.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Session_26/objects-constructor-fun/js/main.js" working-dir="$PROJECT_DIR$/Session_26/objects-constructor-fun/js">
+    <configuration name="main2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Session_32/objects-practice/js/main2.js" working-dir="$PROJECT_DIR$/Session_32/objects-practice/js">
       <method v="2" />
     </configuration>
     <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
@@ -102,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.main2.js" />
         <item itemvalue="Node.js.expresso.js" />
         <item itemvalue="Node.js.chapter9.js" />
         <item itemvalue="Node.js.test.js" />
         <item itemvalue="Node.js.inverseMatrix.js" />
-        <item itemvalue="Node.js.main.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +171,10 @@
       <workItem from="1651391076587" duration="7635000" />
       <workItem from="1651568715724" duration="1873000" />
       <workItem from="1651752873753" duration="1950000" />
-      <workItem from="1651792206187" duration="413000" />
+      <workItem from="1651792206187" duration="4007000" />
+      <workItem from="1651797862481" duration="4633000" />
+      <workItem from="1652105721250" duration="1533000" />
+      <workItem from="1652140153143" duration="907000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1647568874328</created>
