@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e85317c3-930d-4029-9416-86c2baffb67a" name="Changes" comment="Second commit">
-      <change afterPath="$PROJECT_DIR$/Session_32/objects-practice/js/main2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculator/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +59,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Programming/Projects/LeonNoelTheSensei&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Programming/Projects/RandomCSSArt&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -174,7 +171,10 @@
       <workItem from="1651792206187" duration="4007000" />
       <workItem from="1651797862481" duration="4633000" />
       <workItem from="1652105721250" duration="1533000" />
-      <workItem from="1652140153143" duration="907000" />
+      <workItem from="1652140153143" duration="2980000" />
+      <workItem from="1652157413557" duration="1244000" />
+      <workItem from="1652166816138" duration="32000" />
+      <workItem from="1652670818035" duration="702000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1647568874328</created>
