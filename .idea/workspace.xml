@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e85317c3-930d-4029-9416-86c2baffb67a" name="Changes" comment="Second commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculator/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/app.css" afterDir="false" />
     </list>
@@ -174,7 +174,7 @@
       <workItem from="1652140153143" duration="2980000" />
       <workItem from="1652157413557" duration="1244000" />
       <workItem from="1652166816138" duration="32000" />
-      <workItem from="1652670818035" duration="702000" />
+      <workItem from="1652670818035" duration="846000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1647568874328</created>
