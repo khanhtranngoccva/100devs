@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: "Google Sans", sans-serif;
+    background: #000000;
+}
+
+h1 {
+    text-align: center;
+}
+
+figure {
+    margin: 0;
+}
+
+.priceChart {
+    display: flex;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    margin: auto;
+    aspect-ratio: 16/9;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    align-items: flex-end;
+}
+
+.priceBar {
+    flex: 1;
+    background: #ff8068;
+}
+
+.priceBar:hover {
+    background: red;
+}
+
+.toolTip {
+    position: absolute;
+    opacity: 0;
+    transition: opacity 0.25s ease-in-out;
+    font-size: 1.1rem;
+    background: white;
+    padding: 0.25em;
+    border-radius: 0.25rem;
+    box-shadow: 0 0 0.1rem;
+    transform: translate(-50%, -100%);
+    display: none;
+}
+
+.priceBar:hover .toolTip {
+    opacity: 1;
+}
+
+.toolTip time, .toolTip span {
+    display: block;
+}
+
+.toolTip span {
+    font-size: 2em;
+}

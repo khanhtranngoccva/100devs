@@ -1,0 +1,48 @@
+@media only screen and (max-width: 800px) {
+    nav div.general-nav-bar {
+        display: none;
+    }
+
+    .nav-bar-small {
+        display: flex;
+        align-items: center;
+    }
+
+    .nav-bar-small > div {
+        flex: auto;
+        text-align: center;
+    }
+
+    .section-one {
+        display: block;
+    }
+
+
+    div.word-part {
+        margin: 0
+    }
+
+
+    div.image-part img {
+        display: none;
+    }
+
+    /*  TODO: make display block when small */
+    .section-one {
+        display: block;
+    }
+
+    /*         TODO: hide navbar at small screen */
+    /*         .middle-nav, .last-nav {*/
+    /*                display: none;*/
+    /*         }*/
+}
+
+
+/* .nav-bar-small{
+    display: grid;
+    gap: 1em;
+    grid-template-columns: repeat(auto-fit, minmax(10em, 25em));
+    } */
+
+
